@@ -11,6 +11,9 @@ dependencies = [
     "xgboost>=2.1.4",
 ]
 
+[project.urls]
+"Homepage" = "https://github.com/boy-dad/boyd-ml-utils"
+
 [dependency-groups]
 dev = [
     "pre-commit>=4.1.0",
